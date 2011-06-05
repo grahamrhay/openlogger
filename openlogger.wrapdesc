@@ -1,0 +1,3 @@
+﻿depends: openwrap content
+build: msbuild; profile=net35; project=src\OpenLogger\OpenLogger.csproj;
+name: openlogger
